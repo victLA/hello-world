@@ -1,2 +1,2 @@
 # hello-world
-pruebas inicio con GitHub
+pruebas con GitHub
